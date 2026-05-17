@@ -20,6 +20,8 @@
 - 💬 Ask me about Anything [here](http://www.linkedin.com/in/esau-reyes-qa)! I am happy to help.
 
 
-## #Stack
+
+
+## Stack
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
