@@ -13,10 +13,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
+- 🔭 I’m currently working on **Communication**
+- 🌱 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on **QA Tester**
+- 🤔 I’m looking for with **Remote job**
 - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
