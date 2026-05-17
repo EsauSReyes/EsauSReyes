@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **QA Tester**
 - 🤔 I’m looking for with **Remote job**
-- 💬 Ask me about Anything [here](www.linkedin.com/in/esau-reyes-qa)! I am happy to help.
+- 💬 Ask me about Anything [here](http://www.linkedin.com/in/esau-reyes-qa)! I am happy to help.
 
 
 
