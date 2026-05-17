@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **QA Tester**
 - 🤔 I’m looking for with **Remote job**
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+- 💬 Ask me about Anything [here](www.linkedin.com/in/esau-reyes-qa)! I am happy to help.
+
 
 
